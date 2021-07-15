@@ -1,0 +1,14 @@
+.menu-list {
+    width: 100%;
+}
+
+.menu-ul {
+    list-style-type: none;
+}
+
+.menu-li {
+    border-bottom: 1px solid #C5C7CF;
+    font-size: 1rem;
+    color: #6a6b85;
+    line-height: 1.25rem;
+}

@@ -1,0 +1,44 @@
+.formatting {
+    width: 100%;
+    height: 100%;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 888px;
+    text-align: center;
+    background: #0081AE;
+    border: 15px dashed red;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+    padding: 1rem;
+}
+
+.first-word {
+    color: grey;
+}
+
+.row {
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    border: 2px dashed green;
+    border-style: solid dashed dashed;
+    margin: 9px 0;
+    line-height: 18px;
+}
+
+.formatting-title {
+    background: red;
+    color: white;
+    font-style: italic;
+    font-size: 1.25rem;
+    margin: 9px 0;
+}
+
+.main-title :hover {
+    border: 1px solid white;
+}
